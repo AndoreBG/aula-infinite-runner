@@ -9,3 +9,7 @@
 ## Aula 2
 
 - Projeto: https://github.com/AndoreBG/aula-infinite-runner/tree/aula2
+
+## Aula 3
+
+- Projeto: https://github.com/AndoreBG/aula-infinite-runner/tree/aula3
